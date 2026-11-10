@@ -1,0 +1,70 @@
+Enter rows : 3
+Enter Columns : 3
+Total Treasures : 4
+X T E
+E T T
+E T X
+Enter row (0 to 2) : 0
+Enter column (0 to 2) : 0
+You hit a trap! -5 points.
+V T E
+E T T
+E T X
+Current score = -5
+Remaining Treasures = 4
+Enter row (0 to 2) : 0
+Enter column (0 to 2) : 0
+You have already explored this location.
+V T E
+E T T
+E T X
+Current score = -5
+Remaining Treasures = 4
+Enter row (0 to 2) : 0
+Enter column (0 to 2) : 2
+Nothing found at this location.
+V T V
+E T T
+E T X
+Current score = -5
+Remaining Treasures = 4
+Enter row (0 to 2) : 0
+Enter column (0 to 2) : 1
+Treasure found! +10 points.
+V V V
+E T T
+E T X
+Current score = 5
+Remaining Treasures = 3
+Enter row (0 to 2) : 1
+Enter column (0 to 2) : 1
+Treasure found! +15 points (including bonus).
+V V V
+E V T
+E T X
+Current score = 20
+Remaining Treasures = 2
+Enter row (0 to 2) : 1
+Enter column (0 to 2) : 2
+Treasure found! +15 points (including bonus).
+V V V
+E V V
+E T X
+Current score = 35
+Remaining Treasures = 1
+Enter row (0 to 2) : 2
+Enter column (0 to 2) : 1
+Treasure found! +15 points (including bonus).
+V V V
+E V V
+E V X
+Current score = 50
+Remaining Treasures = 0
+Congratulations! All treasures have been collected!
+Final Map:
+V V V
+E V V
+E V X
+Final Score = 50
+Traps Encountered = 1
+Locations explored = 6
