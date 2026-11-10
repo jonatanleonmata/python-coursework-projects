@@ -1,0 +1,81 @@
+Choose an option: 
+1. Burgers
+2. Sides
+3. Drinks
+4. Check out
+> 1
+
+1. Big Owl Burger - Single ($5.99)
+2. Big Owl Burger - Double ($7.99)
+3. Return
+> 1
+1 Big Owl Burger - Single added
+
+1. Big Owl Burger - Single ($5.99)
+2. Big Owl Burger - Double ($7.99)
+3. Return
+> 3
+
+Choose an option: 
+1. Burgers
+2. Sides
+3. Drinks
+4. Check out
+> 2
+
+1. Fries ($3.49)
+2. Onion Rings ($2.99)
+3. Get Back
+> 1
+1 Fries added
+
+1. Fries ($3.49)
+2. Onion Rings ($2.99)
+3. Get Back
+> 3
+
+Choose an option: 
+1. Burgers
+2. Sides
+3. Drinks
+4. Check out
+> 3
+
+1. Scrappy-Cola - Small ($2.49)
+2. Scrappy-Cola - Medium ($2.79)
+3. Scrappy-Cola - Large ($2.99)
+4. Dr Owl - Small ($2.49)
+5. Dr Owl - Medium ($2.79)
+6. Dr Owl - Large ($2.99)
+7. Get Back
+> 1
+1 Scrappy-Cola - Small added
+
+1. Scrappy-Cola - Small ($2.49)
+2. Scrappy-Cola - Medium ($2.79)
+3. Scrappy-Cola - Large ($2.99)
+4. Dr Owl - Small ($2.49)
+5. Dr Owl - Medium ($2.79)
+6. Dr Owl - Large ($2.99)
+7. Get Back
+> 7
+
+Choose an option: 
+1. Burgers
+2. Sides
+3. Drinks
+4. Check out
+> 4
+
+Choose a tip option:
+1. $2.15 (18%)
+2. $2.39 (20%)
+3. $2.99 (25%)
+4. Custom
+5. No Tip
+> 2
+
+Subtotal: $11.97
+Tip: $2.39
+Tax: $0.72
+Total: $15.08
